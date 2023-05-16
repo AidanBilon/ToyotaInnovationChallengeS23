@@ -1,2 +1,2 @@
 # ToyotaInnovationChallengeS23
-Trained Deep learning AI model in Python using OpenCV, NumPy, Matplotlib, and Roboflow API to inspect the quality of sticker application on car body holes.
+Deep learning AI model in Python using OpenCV, NumPy, Matplotlib, and Roboflow API to inspect the quality of sticker application on car body holes. The AI model was trained to identify open, closed, and partially closed cases, on different coloured parts, lighting, and angular positions, ensuring effectiveness in every environment at a high confidence value. This software awarded us with the most systematic engineering approach by the TMMC employees.   
